@@ -1,1 +1,0 @@
-/* Skillak compatibility stub */
