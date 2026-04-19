@@ -9,7 +9,8 @@
       --amber: #f59e0b;
       --amber2: #fbbf24;
       --amber3: #fef3c7;
-      --cream: #f9f6f1;
+      /* --cream: #f9f6f1; */
+      --cream: #06131b;
       --cream2: #f0ebe1;
       --cream3: #e5ddd0;
       --white: #fff;
@@ -971,7 +972,7 @@
       font-family: 'Fraunces', serif;
       font-size: 2.6rem;
       font-weight: 900;
-      color: rgba(245, 158, 11, .2);
+      color: rgb(245 158 11);
       line-height: 1;
       margin-bottom: 11px;
     }
